@@ -45,10 +45,15 @@ Le 1er notebook porte sur :
 
 Le 2ème notebook porte sur 
 - une analyse exploratoire des données du dataset selectionné, mais en utilisant cette fois-ci seaborn :
+  
     . Cartes thermiques Seaborn : données manquantes dans df_train et df_test
+  
     . Diagrammes de comptage de Seaborn : Nombre de (non-)survivants en fonction des caractéristiques
+  
     . Diagrammes de distribution de Seaborn : Distribution de l'âge et du poids en fonction de la classe de probabilité, du sexe et du nombre de survivants
+  
     . Diagrammes à barres et diagrammes en boîte pour les caractéristiques catégorielles : Pclass et Embarqué
+  
     . Diagrammes de violon et d'essaim de Seaborn : Survivants en fonction de l'âge, de la classe de P et du sexe
 
 
